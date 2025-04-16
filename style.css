@@ -1,0 +1,24 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+
+}
+.chris{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Contact{
+    padding-top: 10%;
+}
+a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(43, 226, 58);
+}
+
